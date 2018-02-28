@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUiOaph", "ReactiveUiOaph\ReactiveUiOaph.csproj", "{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Release|iPhone.Build.0 = Release|iPhone
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{221A88E0-144B-47A2-B3AC-5BFCC7BB333E}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

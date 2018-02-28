@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUiLocatorSample", "ReactiveUiLocatorSample\ReactiveUiLocatorSample.csproj", "{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Release|iPhone.Build.0 = Release|iPhone
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9B5DB223-A6C1-459E-8FA2-66B37ED6795F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

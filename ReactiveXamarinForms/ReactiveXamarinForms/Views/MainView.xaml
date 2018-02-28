@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui:ContentPageBase xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:TypeArguments="vms:MainViewModel" 
+    xmlns:rxui="clr-namespace:ReactiveUI.XamForms;assembly=ReactiveUI.XamForms" 
+    xmlns:ui="clr-namespace:ReactiveXamarinForms.Views;assembly=ReactiveXamarinForms" 
+    xmlns:vms="clr-namespace:ReactiveXamarinForms.ViewModels;assembly=ReactiveXamarinForms" 
+    x:Class="ReactiveXamarinForms.Views.MainView">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Label x:Name="TextLabel"/>
+        <Button x:Name="NavigateButton" Text="Second Page"/>
+    </StackLayout>
+</ui:ContentPageBase>
